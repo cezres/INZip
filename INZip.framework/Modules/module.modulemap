@@ -1,0 +1,6 @@
+framework module INZip {
+  umbrella header "INZip.h"
+
+  export *
+  module * { export * }
+}
